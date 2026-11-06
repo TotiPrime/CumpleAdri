@@ -1,0 +1,24 @@
+ADRI — EDICIÓN CINEMATOGRÁFICA
+
+Extrae TODO el ZIP y abre index.html. No necesita instalación ni compilación. Conserva assets, style.css, premium.css, script.js y premium.js junto al HTML.
+
+NOVEDADES
+Caminito ilustrado en alta resolución, modo nocturno, luciérnagas, escenas de Shrek, Monsters Inc, Snoopy, Justin Bieber, Messi y Boca; animaciones suaves, inclinación con ratón, tocadiscos, tres instrumentales originales, frasco de mensajes y vales de planes. Se mantienen las 17 fotos, 4 videos y la carta.
+
+MÚSICA
+Los tres ambientes MP3 están incluidos y funcionan sin internet. Toca reproducir o Sonido. La música se pausa al reproducir un video o salir de la pestaña. Las canciones comerciales enlazan a YouTube: necesitan conexión y su disponibilidad depende del proveedor. No se incluyen copias descargadas de esas canciones.
+
+FUENTES E IMÁGENES
+Google Fonts necesita conexión; hay fuentes de respaldo. Todas las imágenes están incluidas. Caminito es una ilustración artística generada para esta página. Créditos y fuentes en el pie de página.
+
+ANIMACIONES
+Botón Pausar movimiento y respeto de la preferencia de movimiento reducido. La inclinación 3D funciona con ratón; las acciones también funcionan al tocar.
+
+VALIDACIÓN
+Sintaxis JavaScript y recursos locales verificados. En navegador de escritorio se verificaron imágenes, audio local, noche, sorpresas, notas, vales, control de movimiento y enlaces a canciones. No probado en iPhone o Android físicos.
+
+PUBLICACIÓN
+Sube el contenido del ZIP a la raíz de cualquier alojamiento estático. No requiere Node, npm ni backend.
+
+NUEVA CELEBRACIÓN
+Torta con cinco velas decorativas: mantén presionado el botón para soplar o tócalo varias veces. También funciona con Enter o Espacio. Las velitas se apagan progresivamente y aparece humo, una estrella y una dedicatoria. Puedes volver a encenderlas. Funciona sin micrófono.
