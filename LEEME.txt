@@ -22,3 +22,6 @@ Sube el contenido del ZIP a la raíz de cualquier alojamiento estático. No requ
 
 NUEVA CELEBRACIÓN
 Torta con cinco velas decorativas: mantén presionado el botón para soplar o tócalo varias veces. También funciona con Enter o Espacio. Las velitas se apagan progresivamente y aparece humo, una estrella y una dedicatoria. Puedes volver a encenderlas. Funciona sin micrófono.
+
+RITUALES Y SNOOPY
+Ventana de Snoopy corregida para mostrar la imagen completa. Tres imágenes artísticas nuevas de mate, churrasco y fernet, con vapor, brasas y burbujas animadas. Cada tarjeta abre una experiencia interactiva.
